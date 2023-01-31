@@ -1,3 +1,0 @@
-const getGoals=(req,res)=>{
-    
-}
